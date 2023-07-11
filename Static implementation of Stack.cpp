@@ -1,4 +1,4 @@
-// program to demostrate static implementation stack
+// program to demostrate static implementation queue
 
 #include <iostream>
 #define SIZE 2
